@@ -1,0 +1,1 @@
+API REST simples de Produtos desenvolvida em C# com ASP.NET Core. O projeto implementa operações básicas de CRUD e é integrado a um banco de dados MySQL utilizando Entity Framework Core para persistência dos dados.
